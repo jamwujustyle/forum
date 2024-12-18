@@ -1,0 +1,61 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.env
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Test-related
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.pytest_cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Cache files
+*.cache
+.cache/
+
+# Django/Flask local settings
+*.local_settings.py
+
+# SQLite databases
+*.sqlite3
+db.sqlite3
+
+# Debug tools
+debug.log
